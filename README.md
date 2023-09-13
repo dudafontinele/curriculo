@@ -1,9 +1,23 @@
-## curriculo
-Projeto de currículo construído utilizando linguagens: <br>
+# Índice 
 
-HTML5 <br>
-CSS3 <br>
+* [Projeto escrita do README](#projeto-escrita-do-readme)
+* [ Descrição](#descri%C3%A7%C3%A3o)
+* [Introdução](#introdu%C3%A7%C3%A3o)
+* [Funcionalidades](#funcionalidades)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Fontes utilizadas](#fontes-utilizadas)
+* [Autores](#autores)
 
-Neste trabalho, construímos nosso currículo na disciplina de Lingua Portuguesa e criamos uma versão web nas aulas de Fundamentos de Programação Web. <br>
+# Projeto escrita do README
 
-Aprendemos no processo a identificar nossas soft Skills e Hard Skills.
+![Gif Currículo](img/gif.curriculo)
+
+## Introdução
+
+## Funcionalidades 
+
+### Tecnologias utilizadas
+
+## Fontes utilizadas 
+
+## Autores 
